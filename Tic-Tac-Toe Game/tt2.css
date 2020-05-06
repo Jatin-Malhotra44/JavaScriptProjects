@@ -1,0 +1,10 @@
+h1{
+	background: red;
+}
+td{	text-align: center;
+	font-weight: bolder;
+	font-size: 60px;
+	height: 100px;
+	width: 100px;
+	border: 10px double black;
+}
